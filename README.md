@@ -1,6 +1,7 @@
 # Criando-um-Podcast-com-IAs-Generativas
 Tarefa Bootcamp CAIXA - IA Generativa com Microsoft Copilot
 
+
 💻 Tecnologias utilizadas no projeto
 
 ChatGPT
@@ -10,6 +11,7 @@ MidJourney
 ElevenLabs
 
 Capcut
+
 
 
 ✨ Como foi feito ?
