@@ -13,7 +13,6 @@ ElevenLabs
 Capcut
 
 
-
 ✨ Como foi feito ?
 
 Roteiro gerado via ChatGPT
