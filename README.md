@@ -6,8 +6,6 @@ Tarefa Bootcamp CAIXA - IA Generativa com Microsoft Copilot
 
 ChatGPT
 
-MidJourney
-
 ElevenLabs
 
 Capcut
@@ -19,6 +17,6 @@ Roteiro gerado via ChatGPT
 
 Audio gerado pela ElevenLabs
 
-Midjourney para gerar imagem de capa
+Imagem de capa gerada pelo ChatGPT
 
 Capcut para tratar aúdio e adicionar sons de fundo
